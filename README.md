@@ -30,7 +30,8 @@ This is used in numerous image editing and drawing apps.
 
 
 ## To Use Project ##
-Download all files, make sure .py project, CSV file and images are in same directory. 
+Download all files, make sure .py project, CSV file and images are in same directory.
+Required modules: cv2, numpy, pandas, argparse
 
 
 ## Any Feedback Would Be Greatly Appriciared ##
